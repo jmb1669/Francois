@@ -1,7 +1,5 @@
 coucou
 Hello
-<<<<<<< HEAD
+Nouvelle Branche Develope
 Branche main
-=======
 Nouvelle Branche
->>>>>>> ea4fdf40cdec6425293291ee9120b671552638ba
